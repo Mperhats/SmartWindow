@@ -1,0 +1,4 @@
+Run commands: 
+1. pip3 install homeassisant
+2. hass --open-ui
+3. Dashboard will be loaded
