@@ -1,4 +1,13 @@
-Run commands: 
-1. pip3 install homeassisant
-2. hass --open-ui
-3. Dashboard will be loaded
+Getting Started
+1. Installation resources
+    a. watch for virtual machine installation on macOS  https://www.youtube.com/watch?v=SzDbvblgK2A 
+    b. use for installation https://www.home-assistant.io/installation/macos#install-home-assistant-core
+2. Opening Home Assistant
+    a. Login credentials:
+        - username: perhats
+        - password: Data1001!
+    b. Launch Oracle Virtual Box Home Assistant Software
+
+
+Resources:
+https://www.youtube.com/c/GraysonAdams
